@@ -1,4 +1,4 @@
 # kiet-
-kiet repository
+Kiet repository
 <br>
-author - poornima
+author - Poornima Gupta
